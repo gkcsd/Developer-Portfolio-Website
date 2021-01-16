@@ -78,7 +78,7 @@ const Contact = () => {
           </div>
           <div className="col-lg-4">
             <div className="col-lg-12 img">
-              <img src={cont} />
+              <img src={cont} alt="thinking image" />
             </div>
           </div>
         </div>

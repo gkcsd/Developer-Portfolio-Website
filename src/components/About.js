@@ -10,6 +10,7 @@ const About = () => {
             <div className="about-image">
               <img
                 src={logo2}
+                alt="About US IMAGE"
                 className="img-fluid animate__animated animate__backInLeft"
               />
             </div>
